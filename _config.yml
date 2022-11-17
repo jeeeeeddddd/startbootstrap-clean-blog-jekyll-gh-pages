@@ -1,9 +1,9 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              Power Platform PH User Group
+email:              john.elison.duero@365ninjas.com
+description:        A community site of PPPHUG
+author:             365Ninjas
+baseurl:            "/ppphug"
+url:                "https://ppphug.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
