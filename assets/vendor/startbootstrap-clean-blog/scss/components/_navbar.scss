@@ -39,7 +39,7 @@
 
             &:focus,
             &:hover {
-                color: fade-out($white, .2);
+                color: $red-800;
             }
         }
 
@@ -51,7 +51,7 @@
 
                     &:focus,
                     &:hover {
-                        color: fade-out($white, .2);
+                        color: $red-800;
                     }
                 }
             }
